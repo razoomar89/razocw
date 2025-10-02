@@ -1,2 +1,2 @@
 # razocw
-My copywriting portfolio.
+Omar Razo's copywriting portfolio.
